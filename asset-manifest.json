@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netflixee/static/css/main.abd55f4c.css",
+    "main.js": "/Netflixee/static/js/main.2f3af278.js",
+    "index.html": "/Netflixee/index.html",
+    "main.abd55f4c.css.map": "/Netflixee/static/css/main.abd55f4c.css.map",
+    "main.2f3af278.js.map": "/Netflixee/static/js/main.2f3af278.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd55f4c.css",
+    "static/js/main.2f3af278.js"
+  ]
+}
