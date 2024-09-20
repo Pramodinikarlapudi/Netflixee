@@ -1,5 +1,7 @@
 Hi People,  
 This project is a Netflix clone, I call it 'Netflixee'  
+Check Working of Netflixee live here:
+https://pramodinikarlapudi.github.io/Netflixee/  
 . I have built each and every component in React.Js  
 . Special care is taken on Transitions and Animations  
 . Used Math.random() function to render a random movie posters from Netflix Originals section  
